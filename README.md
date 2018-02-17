@@ -1,0 +1,2 @@
+# Screen-lock-website
+yes
